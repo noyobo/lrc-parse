@@ -1,0 +1,23 @@
+{
+  "name": "lrc-parse",
+  "version": "1.0.0",
+  "homepage": "https://github.com/noyobo/lrc-parse",
+  "authors": [
+    "noyobo <noyobo@gmail.com>"
+  ],
+  "description": "LRC parse to JSON data",
+  "main": "index.js",
+  "keywords": [
+    "lrc",
+    "lrc2json"
+  ],
+  "license": "MIT",
+  "private": false,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "lrc-parse",
+  "version": "1.0.0",
+  "description": "LRC parse to JSON data",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/noyobo/lrc-parse.git"
+  },
+  "keywords": [
+    "lrc",
+    "lrc2json"
+  ],
+  "author": "noyobo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/noyobo/lrc-parse/issues"
+  },
+  "homepage": "https://github.com/noyobo/lrc-parse"
+}
