@@ -1,6 +1,8 @@
 lrc-parse
 =========
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/noyobo/lrc-parse.svg)](https://greenkeeper.io/)
+
 LRC parse to JSON data
 
 [![Build Status](https://travis-ci.org/noyobo/lrc-parse.svg)](https://travis-ci.org/noyobo/lrc-parse)

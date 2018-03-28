@@ -23,8 +23,8 @@
   "homepage": "https://github.com/noyobo/lrc-parse",
   "devDependencies": {
     "gulp": "^3.8.8",
-    "gulp-jshint": "^1.8.5",
-    "jshint-stylish": "^1.0.0",
-    "mocha": "^1.21.5"
+    "gulp-jshint": "^2.1.0",
+    "jshint-stylish": "^2.2.1",
+    "mocha": "^5.0.5"
   }
 }
